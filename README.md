@@ -30,7 +30,7 @@ To add an email to the safelist, contact the tool's administrator.
 
 ## Prerequisites
 
-Ensure you have Python and Git installed on your system.
+Ensure you have Python installed on your system.
 
 Download and install Python from [here](https://www.python.org/downloads/).
 
