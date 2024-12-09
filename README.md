@@ -76,4 +76,4 @@ The toolkit integrates security mechanisms, including the safelist, to ensure et
 
 ## Authors
 
-* **Gabriel Gonta** - *Initial work* - [Password-Generator](https://github.com/gabrielgonta/Email-Spoofing.git)
+* **Gabriel Gonta** - *Initial work* - [Email-Spoofing](https://github.com/gabrielgonta/Email-Spoofing.git)
